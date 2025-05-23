@@ -354,7 +354,7 @@ const content = {
       subtitle:
         "Visite nosso endereço e confira no mapa abaixo como chegar facilmente.",
       embedsrc:
-        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29401.51170978657!2d-43.647429013450186!3d-22.906400044629933!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9be5cd8a063151%3A0xb2ee80770c0b7084!2sPACI%C3%8ANCIA%20MALL!5e0!3m2!1spt-BR!2sbr!4v1747968721791!5m2!1spt-BR!2sbr",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.856132980635!2d-43.628608299999996!3d-22.9186767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9be4d09081af8d%3A0x9a2d6634307a4692!2sEstr.%20de%20Paci%C3%AAncia%2C%2031%20-%20Paci%C3%AAncia%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2023585-050!5e0!3m2!1spt-BR!2sbr!4v1747998840640!5m2!1spt-BR!2sbr",
     },
     about: {
       imagem: {
