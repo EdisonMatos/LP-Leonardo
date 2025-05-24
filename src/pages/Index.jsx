@@ -19,7 +19,6 @@ export default function Index() {
   return (
     <>
       <Navbar colorMode={colorMode} />
-
       <Hero
         colorMode={colorMode}
         appDownloadButtons={false}
@@ -39,7 +38,6 @@ export default function Index() {
       <About modal={true} showGallery={false} colorMode={colorMode} />
       <AboutInstagram
         colorMode={colorMode}
-        socialPrint={true}
         instagram={true}
         tiktok={true}
       />
