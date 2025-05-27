@@ -37,12 +37,7 @@ export default function Index() {
         paragraphsModal={false}
       />
       <About modal={true} showGallery={false} colorMode={colorMode} />
-      <AboutInstagram
-        colorMode={colorMode}
-        socialPrint={true}
-        instagram={true}
-        tiktok={true}
-      />
+      <AboutInstagram colorMode={colorMode} instagram={true} tiktok={true} />
       <Cta colorMode={colorMode} />
       <Steps colorMode={colorMode} />
       <Maps colorMode={colorMode} />
